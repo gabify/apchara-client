@@ -1,6 +1,11 @@
+import BottomNav from "../components/BottomNav";
+
 const Order = () => {
     return ( 
-        <h1>Order page</h1>
+        <div>
+            <h1>Order page</h1>
+            <BottomNav/>
+        </div>
      );
 }
  
